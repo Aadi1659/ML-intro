@@ -1,0 +1,15 @@
+The main steps included creating a machine learning model are
+
+1.importing data
+2.cleaning data
+3.spilt the data into training/test sets
+4.creating a model
+5.training the model
+6.make predictions
+7.evaluate and improve.
+
+libraries used are:
+1. numpy
+2. pandas
+3. matplotlib
+4. scilit learn
